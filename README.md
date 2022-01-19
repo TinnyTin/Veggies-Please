@@ -1,2 +1,2 @@
-# veggies-please
-Veggies Please WebGL game
+# Veggies-Please
+A WebGL game made in collaboration with judy-chen.
